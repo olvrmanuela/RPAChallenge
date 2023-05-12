@@ -1,4 +1,4 @@
 # RPAChallenge
 RPA CHALLENGE | Fiskal Digital Services
 
-No código apresentado, são utilizados métodos e funções de bibliotecas como pandas e Selenium para realizar diversas tarefas automatizadas.O código lê dados de um arquivo Excel, corrige os nomes das colunas, inicializa o driver do Selenium, abre um site, preenche um formulário com os dados do arquivo Excel, envia o formulário, captura uma screenshot da página resultante e, por fim, fecha o driver do Selenium.
+Na pasta RPACHALLENGE.zip os código apresentados utilizadom métodos e funções da biblioteca Selenium para realizar a solução do desafio proposto pelo site http://www.rpachallenge.com/ . O código lê dados de um arquivo Excel, inicializa o driver do Selenium, abre o site e soluciona o desafio preenchendo um formulário com os dados do arquivo Excel e envio do formulário. Adiconei também o método driver.save_screenshot(): para a captura de uma screenshot da página final. A linguagem utilizada foi Python e a IDE Visual Studio Code. As stacks utilizadas foram Selenium Web Driver juntamente ao ChromeDriver.   
