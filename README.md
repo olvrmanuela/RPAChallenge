@@ -1,5 +1,5 @@
 # RPAChallenge
-RPA CHALLENGE | Fiskal Digital Services
+RPA CHALLENGE
 
 Na pasta RPACHALLENGE.zip os código apresentados utilizadom métodos e funções da biblioteca Selenium para realizar a solução do desafio proposto pelo site http://www.rpachallenge.com/ 
 
